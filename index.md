@@ -2,14 +2,9 @@
 
 The [Biomedical Sciences, Engineering and Computing](https://www.ornl.gov/division/csed/biomedical-sciences) (BSEC) group 
 at [Oak Ridge National Laboratory](http://www.ornl.gov) catalyzes interdisciplinary biomedical research on national medical 
-challenges that is synergistic with the DOE mission and ORNL capabilities. Supporting DOE’s strategic goal for improved 
-US economic competitiveness and quality of life through innovations in science and technology, the group brings together 
-scientists to solve challenging biomedical problems that can benefit from the unique ORNL resources: 
-(i) broad spectrum of core expertise in physics, chemistry, mathematics, biology, engineering, and computer science; 
-(ii) leading high performance computing infrastructure, specialized equipment, and sophisticated instrumentation; 
-(iii) proven platform for productive multidisciplinary collaborations with academia, industry, medical centers, 
-and federal agencies; 
-and (iv) experienced technology transfer for commercialization and licensing.  
+challenges that is synergistic with the DOE mission and ORNL capabilities. 
+
+Our ongoing projects with the [Joint Design of Advanced Computing Solutions for Cancer (JDACS4C)](https://ncip.nci.nih.gov/blog/joint-design-advanced-computing-solutions-cancer-jdacs4c-right-collaboration-right-time-accelerate-cancer-research/) and the [Exascale Computing Project's Cancer Deep Learning Environment](https://press3.mcs.anl.gov/candle/) are provided here. 
 
 Oak Ridge National Laboratory is a multi-program science and technology laboratory managed for the U.S. Department of Energy 
 by UT-Battelle, LLC. Scientists and engineers at ORNL conduct basic and applied research and development to create scientific 
