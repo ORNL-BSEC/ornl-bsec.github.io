@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to ORNL-Biomedical Sciences, Engineering and Computing Group
 
-You can use the [editor on GitHub](https://github.com/ORNL-BSEC/ornl-bsec.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The [Biomedical Sciences, Engineering and Computing](https://www.ornl.gov/division/csed/biomedical-sciences) (BSEC) group at [Oak Ridge National Laboratory](http://www.ornl.gov) catalyzes interdisciplinary biomedical research on national medical challenges that is synergistic with the DOE mission and ORNL capabilities. Supporting DOE’s strategic goal for improved US economic competitiveness and quality of life through innovations in science and technology, the group brings together scientists to solve challenging biomedical problems that can benefit from the unique ORNL resources: 
+(i) broad spectrum of core expertise in physics, chemistry, mathematics, biology, engineering, and computer science; (ii) leading high performance computing infrastructure, specialized equipment, and sophisticated instrumentation; (iii) proven platform for productive multidisciplinary collaborations with academia, industry, medical centers, and federal agencies; and (iv) experienced technology transfer for commercialization and licensing.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ORNL-BSEC/ornl-bsec.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Oak Ridge National Laboratory is a multi-program science and technology laboratory managed for the U.S. Department of Energy 
+by UT-Battelle, LLC. Scientists and engineers at ORNL conduct basic and applied research and development to create scientific 
+knowledge and technological solutions that strengthen the nation's leadership in key areas of science; increase the 
+availability of clean, abundant energy; restore and protect the environment; and contribute to national security.
